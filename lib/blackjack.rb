@@ -40,7 +40,7 @@ def hit?(card_total)
     card_total
    elsif 
      invalid_command
-     ("Type 'h' to hit or 's' to stay")
+     "Type 'h' to hit or 's' to stay"
   end
   card_total
 end
